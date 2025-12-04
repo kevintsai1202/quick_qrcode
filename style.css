@@ -53,6 +53,15 @@ button:hover {
     background-color: #0056b3;
 }
 
+#downloadBtn {
+    background-color: #28a745;
+    width: 100%;
+}
+
+#downloadBtn:hover {
+    background-color: #218838;
+}
+
 #qrcode {
     display: flex;
     justify-content: center;
